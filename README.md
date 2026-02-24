@@ -16,7 +16,6 @@ It replicates the layout including:
 
 - HTML
 - CSS
-- JavaScript
 - Tailwind CSS 
 
 ---
